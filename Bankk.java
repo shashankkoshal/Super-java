@@ -10,7 +10,7 @@ name= name_i
 
 public static void main(String args[])
 {
-Bank.bn = new Bank();
+Bank.bn = new Bank();//kudhsahdiush
 
 bn.get_name("Shashank");
 
